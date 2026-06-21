@@ -1,0 +1,29 @@
+{
+  "feeds": [
+    {
+      "name": "LEX 18",
+      "url": "https://www.lex18.com/news/rss",
+      "keywords": ["EKCC", "prison", "KDOC", "Broyles", "Tony"]
+    },
+    {
+      "name": "FOX 56 News",
+      "url": "https://fox56news.com/feed/",
+      "keywords": ["EKCC", "prison", "KDOC"]
+    },
+    {
+      "name": "Kentucky Herald-Leader",
+      "url": "https://feeds.mcclatchy.com/kentucky/sections/latest-news/stories",
+      "keywords": ["prison", "corrections", "KDOC"]
+    },
+    {
+      "name": "Prison Legal News",
+      "url": "https://www.prisonlegalnews.org/feed/",
+      "keywords": ["Kentucky", "prison"]
+    },
+    {
+      "name": "The Marshall Project",
+      "url": "https://www.themarshallproject.org/feed",
+      "keywords": ["prison"]
+    }
+  ]
+}
